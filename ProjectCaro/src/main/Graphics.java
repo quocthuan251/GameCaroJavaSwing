@@ -15,8 +15,8 @@ import javax.swing.undo.UndoManager;
 public class Graphics extends JPanel{
 	private static final long serialVersionUID = 1L;
 	public static final int sizeCell = 30;
-	public static final int row = 18;
-	public static final int col = 18;
+	public static final int row = 15;
+	public static final int col = 15;
 	public static final int width = sizeCell * col +1;
 	public static final int height = sizeCell * row +1;
 	
